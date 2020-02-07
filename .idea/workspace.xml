@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1c8ab020-e443-446e-9dc6-f4ecaf880a48" name="Default Changelist" comment="" />
+    <list default="true" id="1c8ab020-e443-446e-9dc6-f4ecaf880a48" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonLearnDemo/Day3Practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonLearnDemo/Decorate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonLearnDemo/EvalTest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonLearnDemo/HighFunction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonLearnDemo/LambdaDemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonLearnDemo/generator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonLearnDemo/namespace.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonLearnDemo/生成式.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +25,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1V5bxo67pN5BE1boLhmrsrkujLp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,9 +37,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Python.LocalAndPart">
-    <configuration name="CollectionRelation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Day3Practice">
+    <configuration name="生成式" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonDemo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -36,7 +52,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonLearnDemo/CollectionRelation.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonLearnDemo/生成式.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -45,7 +61,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Day2Pratice1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Day3Practice" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonDemo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -57,7 +73,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonLearnDemo/Day2Pratice1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonLearnDemo/Day3Practice.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -66,7 +82,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Deepcopy" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Decorate" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonDemo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -78,7 +94,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonLearnDemo/Deepcopy.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonLearnDemo/Decorate.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -87,7 +103,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="LocalAndPart" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="LocalsTest" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonDemo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -99,7 +115,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonLearnDemo/LocalAndPart.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonLearnDemo/namespace.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -108,7 +124,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="OpearteFile" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="generator" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonDemo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -120,7 +136,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonLearnDemo/OpearteFile.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonLearnDemo/generator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -131,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.LocalAndPart" />
-        <item itemvalue="Python.Deepcopy" />
-        <item itemvalue="Python.OpearteFile" />
-        <item itemvalue="Python.Day2Pratice1" />
-        <item itemvalue="Python.CollectionRelation" />
+        <item itemvalue="Python.Day3Practice" />
+        <item itemvalue="Python.generator" />
+        <item itemvalue="Python.生成式" />
+        <item itemvalue="Python.Decorate" />
+        <item itemvalue="Python.LocalsTest" />
       </list>
     </recent_temporary>
   </component>
@@ -173,78 +189,90 @@
       <screen x="0" y="23" width="1440" height="808" />
     </state>
     <state x="184" y="88" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.808@0.23.1440.808" timestamp="1580466615302" />
-    <state width="1419" height="192" key="GridCell.Tab.0.bottom" timestamp="1580980970494">
-      <screen x="0" y="23" width="1440" height="816" />
+    <state width="1419" height="192" key="GridCell.Tab.0.bottom" timestamp="1581086857863">
+      <screen x="0" y="23" width="1440" height="823" />
     </state>
     <state width="1379" height="192" key="GridCell.Tab.0.bottom/0.23.1440.801@0.23.1440.801" timestamp="1576567915440" />
     <state width="1379" height="192" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1576579905997" />
     <state width="1419" height="192" key="GridCell.Tab.0.bottom/0.23.1440.806@0.23.1440.806" timestamp="1580110063772" />
     <state width="1419" height="192" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1580468939963" />
     <state width="1419" height="192" key="GridCell.Tab.0.bottom/0.23.1440.814@0.23.1440.814" timestamp="1580705028730" />
-    <state width="1419" height="192" key="GridCell.Tab.0.bottom/0.23.1440.816@0.23.1440.816" timestamp="1580980970494" />
+    <state width="1419" height="192" key="GridCell.Tab.0.bottom/0.23.1440.816@0.23.1440.816" timestamp="1580982792193" />
     <state width="1419" height="192" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1580876203634" />
-    <state width="1419" height="192" key="GridCell.Tab.0.center" timestamp="1580980970494">
-      <screen x="0" y="23" width="1440" height="816" />
+    <state width="1419" height="192" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1581086857863" />
+    <state width="1419" height="192" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1581060806710" />
+    <state width="1419" height="192" key="GridCell.Tab.0.center" timestamp="1581086857862">
+      <screen x="0" y="23" width="1440" height="823" />
     </state>
     <state width="1379" height="192" key="GridCell.Tab.0.center/0.23.1440.801@0.23.1440.801" timestamp="1576567915439" />
     <state width="1379" height="192" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1576579905996" />
     <state width="1419" height="192" key="GridCell.Tab.0.center/0.23.1440.806@0.23.1440.806" timestamp="1580110063771" />
     <state width="1419" height="192" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1580468939962" />
     <state width="1419" height="192" key="GridCell.Tab.0.center/0.23.1440.814@0.23.1440.814" timestamp="1580705028729" />
-    <state width="1419" height="192" key="GridCell.Tab.0.center/0.23.1440.816@0.23.1440.816" timestamp="1580980970494" />
+    <state width="1419" height="192" key="GridCell.Tab.0.center/0.23.1440.816@0.23.1440.816" timestamp="1580982792192" />
     <state width="1419" height="192" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1580876203633" />
-    <state width="1419" height="192" key="GridCell.Tab.0.left" timestamp="1580980970493">
-      <screen x="0" y="23" width="1440" height="816" />
+    <state width="1419" height="192" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1581086857862" />
+    <state width="1419" height="192" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1581060806709" />
+    <state width="1419" height="192" key="GridCell.Tab.0.left" timestamp="1581086857862">
+      <screen x="0" y="23" width="1440" height="823" />
     </state>
     <state width="1379" height="192" key="GridCell.Tab.0.left/0.23.1440.801@0.23.1440.801" timestamp="1576567915439" />
     <state width="1379" height="192" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1576579905996" />
     <state width="1419" height="192" key="GridCell.Tab.0.left/0.23.1440.806@0.23.1440.806" timestamp="1580110063770" />
     <state width="1419" height="192" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1580468939962" />
     <state width="1419" height="192" key="GridCell.Tab.0.left/0.23.1440.814@0.23.1440.814" timestamp="1580705028729" />
-    <state width="1419" height="192" key="GridCell.Tab.0.left/0.23.1440.816@0.23.1440.816" timestamp="1580980970493" />
+    <state width="1419" height="192" key="GridCell.Tab.0.left/0.23.1440.816@0.23.1440.816" timestamp="1580982792191" />
     <state width="1419" height="192" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1580876203632" />
-    <state width="1419" height="192" key="GridCell.Tab.0.right" timestamp="1580980970494">
-      <screen x="0" y="23" width="1440" height="816" />
+    <state width="1419" height="192" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1581086857862" />
+    <state width="1419" height="192" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1581060806709" />
+    <state width="1419" height="192" key="GridCell.Tab.0.right" timestamp="1581086857863">
+      <screen x="0" y="23" width="1440" height="823" />
     </state>
     <state width="1379" height="192" key="GridCell.Tab.0.right/0.23.1440.801@0.23.1440.801" timestamp="1576567915440" />
     <state width="1379" height="192" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1576579905997" />
     <state width="1419" height="192" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1580110063771" />
     <state width="1419" height="192" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1580468939963" />
     <state width="1419" height="192" key="GridCell.Tab.0.right/0.23.1440.814@0.23.1440.814" timestamp="1580705028730" />
-    <state width="1419" height="192" key="GridCell.Tab.0.right/0.23.1440.816@0.23.1440.816" timestamp="1580980970494" />
+    <state width="1419" height="192" key="GridCell.Tab.0.right/0.23.1440.816@0.23.1440.816" timestamp="1580982792192" />
     <state width="1419" height="192" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1580876203633" />
-    <state width="1419" height="256" key="GridCell.Tab.1.bottom" timestamp="1580980961081">
-      <screen x="0" y="23" width="1440" height="816" />
+    <state width="1419" height="192" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1581086857863" />
+    <state width="1419" height="192" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1581060806710" />
+    <state width="1419" height="256" key="GridCell.Tab.1.bottom" timestamp="1581086775888">
+      <screen x="0" y="23" width="1440" height="823" />
     </state>
     <state width="1379" height="239" key="GridCell.Tab.1.bottom/0.23.1440.801@0.23.1440.801" timestamp="1576561489449" />
     <state width="1419" height="256" key="GridCell.Tab.1.bottom/0.23.1440.806@0.23.1440.806" timestamp="1580106808662" />
     <state width="1419" height="256" key="GridCell.Tab.1.bottom/0.23.1440.814@0.23.1440.814" timestamp="1580703023361" />
-    <state width="1419" height="256" key="GridCell.Tab.1.bottom/0.23.1440.816@0.23.1440.816" timestamp="1580980961081" />
+    <state width="1419" height="256" key="GridCell.Tab.1.bottom/0.23.1440.816@0.23.1440.816" timestamp="1580982151098" />
     <state width="1419" height="256" key="GridCell.Tab.1.bottom/0.23.1440.821@0.23.1440.821" timestamp="1580719931609" />
-    <state width="1419" height="256" key="GridCell.Tab.1.center" timestamp="1580980961081">
-      <screen x="0" y="23" width="1440" height="816" />
+    <state width="1419" height="256" key="GridCell.Tab.1.bottom/0.23.1440.823@0.23.1440.823" timestamp="1581086775888" />
+    <state width="1419" height="256" key="GridCell.Tab.1.center" timestamp="1581086775888">
+      <screen x="0" y="23" width="1440" height="823" />
     </state>
     <state width="1379" height="239" key="GridCell.Tab.1.center/0.23.1440.801@0.23.1440.801" timestamp="1576561489448" />
     <state width="1419" height="256" key="GridCell.Tab.1.center/0.23.1440.806@0.23.1440.806" timestamp="1580106808662" />
     <state width="1419" height="256" key="GridCell.Tab.1.center/0.23.1440.814@0.23.1440.814" timestamp="1580703023361" />
-    <state width="1419" height="256" key="GridCell.Tab.1.center/0.23.1440.816@0.23.1440.816" timestamp="1580980961081" />
+    <state width="1419" height="256" key="GridCell.Tab.1.center/0.23.1440.816@0.23.1440.816" timestamp="1580982151098" />
     <state width="1419" height="256" key="GridCell.Tab.1.center/0.23.1440.821@0.23.1440.821" timestamp="1580719931609" />
-    <state width="1419" height="256" key="GridCell.Tab.1.left" timestamp="1580980961080">
-      <screen x="0" y="23" width="1440" height="816" />
+    <state width="1419" height="256" key="GridCell.Tab.1.center/0.23.1440.823@0.23.1440.823" timestamp="1581086775888" />
+    <state width="1419" height="256" key="GridCell.Tab.1.left" timestamp="1581086775888">
+      <screen x="0" y="23" width="1440" height="823" />
     </state>
     <state width="1379" height="239" key="GridCell.Tab.1.left/0.23.1440.801@0.23.1440.801" timestamp="1576561489448" />
     <state width="1419" height="256" key="GridCell.Tab.1.left/0.23.1440.806@0.23.1440.806" timestamp="1580106808662" />
     <state width="1419" height="256" key="GridCell.Tab.1.left/0.23.1440.814@0.23.1440.814" timestamp="1580703023361" />
-    <state width="1419" height="256" key="GridCell.Tab.1.left/0.23.1440.816@0.23.1440.816" timestamp="1580980961080" />
+    <state width="1419" height="256" key="GridCell.Tab.1.left/0.23.1440.816@0.23.1440.816" timestamp="1580982151097" />
     <state width="1419" height="256" key="GridCell.Tab.1.left/0.23.1440.821@0.23.1440.821" timestamp="1580719931609" />
-    <state width="1419" height="256" key="GridCell.Tab.1.right" timestamp="1580980961081">
-      <screen x="0" y="23" width="1440" height="816" />
+    <state width="1419" height="256" key="GridCell.Tab.1.left/0.23.1440.823@0.23.1440.823" timestamp="1581086775888" />
+    <state width="1419" height="256" key="GridCell.Tab.1.right" timestamp="1581086775888">
+      <screen x="0" y="23" width="1440" height="823" />
     </state>
     <state width="1379" height="239" key="GridCell.Tab.1.right/0.23.1440.801@0.23.1440.801" timestamp="1576561489449" />
     <state width="1419" height="256" key="GridCell.Tab.1.right/0.23.1440.806@0.23.1440.806" timestamp="1580106808662" />
     <state width="1419" height="256" key="GridCell.Tab.1.right/0.23.1440.814@0.23.1440.814" timestamp="1580703023361" />
-    <state width="1419" height="256" key="GridCell.Tab.1.right/0.23.1440.816@0.23.1440.816" timestamp="1580980961081" />
+    <state width="1419" height="256" key="GridCell.Tab.1.right/0.23.1440.816@0.23.1440.816" timestamp="1580982151098" />
     <state width="1419" height="256" key="GridCell.Tab.1.right/0.23.1440.821@0.23.1440.821" timestamp="1580719931609" />
+    <state width="1419" height="256" key="GridCell.Tab.1.right/0.23.1440.823@0.23.1440.823" timestamp="1581086775888" />
     <state x="376" y="258" key="com.intellij.ide.util.TipDialog" timestamp="1576546157435">
       <screen x="0" y="23" width="1440" height="801" />
     </state>
