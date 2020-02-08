@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c8ab020-e443-446e-9dc6-f4ecaf880a48" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pythonLearnDemo/TimeDemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonLearnDemo/PickleDemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonLearnDemo/RandomDemo.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,31 +29,11 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Python.TimeDemo">
-    <configuration name="生成式" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonDemo" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonLearnDemo" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonLearnDemo/生成式.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.PickleDemo">
     <configuration name="Day3Practice" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonDemo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -74,7 +55,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Decorate" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="PickleDemo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonDemo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -86,7 +67,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonLearnDemo/Decorate.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonLearnDemo/PickleDemo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="RandomDemo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonDemo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonLearnDemo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonLearnDemo/RandomDemo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.PickleDemo" />
+        <item itemvalue="Python.RandomDemo" />
         <item itemvalue="Python.TimeDemo" />
         <item itemvalue="Python.Day3Practice" />
         <item itemvalue="Python.generator" />
-        <item itemvalue="Python.生成式" />
-        <item itemvalue="Python.Decorate" />
       </list>
     </recent_temporary>
   </component>
@@ -181,8 +183,12 @@
       <screen x="0" y="23" width="1440" height="808" />
     </state>
     <state x="184" y="88" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.808@0.23.1440.808" timestamp="1580466615302" />
-    <state width="1419" height="192" key="GridCell.Tab.0.bottom" timestamp="1581132668209">
-      <screen x="0" y="23" width="1440" height="826" />
+    <state x="447" y="235" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581134693976">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="447" y="235" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.823@0.23.1440.823" timestamp="1581134693976" />
+    <state width="1419" height="192" key="GridCell.Tab.0.bottom" timestamp="1581134851778">
+      <screen x="0" y="23" width="1440" height="823" />
     </state>
     <state width="1379" height="192" key="GridCell.Tab.0.bottom/0.23.1440.801@0.23.1440.801" timestamp="1576567915440" />
     <state width="1379" height="192" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1576579905997" />
@@ -192,11 +198,11 @@
     <state width="1419" height="192" key="GridCell.Tab.0.bottom/0.23.1440.816@0.23.1440.816" timestamp="1580982792193" />
     <state width="1419" height="192" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1580876203634" />
     <state width="1419" height="192" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1581086926854" />
-    <state width="1419" height="192" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1581086857863" />
-    <state width="1419" height="192" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1581060806710" />
+    <state width="1419" height="192" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1581134851778" />
+    <state width="1419" height="192" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1581134109944" />
     <state width="1419" height="192" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1581132668209" />
-    <state width="1419" height="192" key="GridCell.Tab.0.center" timestamp="1581132668208">
-      <screen x="0" y="23" width="1440" height="826" />
+    <state width="1419" height="192" key="GridCell.Tab.0.center" timestamp="1581134851778">
+      <screen x="0" y="23" width="1440" height="823" />
     </state>
     <state width="1379" height="192" key="GridCell.Tab.0.center/0.23.1440.801@0.23.1440.801" timestamp="1576567915439" />
     <state width="1379" height="192" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1576579905996" />
@@ -206,11 +212,11 @@
     <state width="1419" height="192" key="GridCell.Tab.0.center/0.23.1440.816@0.23.1440.816" timestamp="1580982792192" />
     <state width="1419" height="192" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1580876203633" />
     <state width="1419" height="192" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1581086926853" />
-    <state width="1419" height="192" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1581086857862" />
-    <state width="1419" height="192" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1581060806709" />
+    <state width="1419" height="192" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1581134851778" />
+    <state width="1419" height="192" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1581134109943" />
     <state width="1419" height="192" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1581132668208" />
-    <state width="1419" height="192" key="GridCell.Tab.0.left" timestamp="1581132668208">
-      <screen x="0" y="23" width="1440" height="826" />
+    <state width="1419" height="192" key="GridCell.Tab.0.left" timestamp="1581134851777">
+      <screen x="0" y="23" width="1440" height="823" />
     </state>
     <state width="1379" height="192" key="GridCell.Tab.0.left/0.23.1440.801@0.23.1440.801" timestamp="1576567915439" />
     <state width="1379" height="192" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1576579905996" />
@@ -220,11 +226,11 @@
     <state width="1419" height="192" key="GridCell.Tab.0.left/0.23.1440.816@0.23.1440.816" timestamp="1580982792191" />
     <state width="1419" height="192" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1580876203632" />
     <state width="1419" height="192" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1581086926853" />
-    <state width="1419" height="192" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1581086857862" />
-    <state width="1419" height="192" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1581060806709" />
+    <state width="1419" height="192" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1581134851777" />
+    <state width="1419" height="192" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1581134109943" />
     <state width="1419" height="192" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1581132668208" />
-    <state width="1419" height="192" key="GridCell.Tab.0.right" timestamp="1581132668209">
-      <screen x="0" y="23" width="1440" height="826" />
+    <state width="1419" height="192" key="GridCell.Tab.0.right" timestamp="1581134851778">
+      <screen x="0" y="23" width="1440" height="823" />
     </state>
     <state width="1379" height="192" key="GridCell.Tab.0.right/0.23.1440.801@0.23.1440.801" timestamp="1576567915440" />
     <state width="1379" height="192" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1576579905997" />
@@ -234,8 +240,8 @@
     <state width="1419" height="192" key="GridCell.Tab.0.right/0.23.1440.816@0.23.1440.816" timestamp="1580982792192" />
     <state width="1419" height="192" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1580876203633" />
     <state width="1419" height="192" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1581086926853" />
-    <state width="1419" height="192" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1581086857863" />
-    <state width="1419" height="192" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1581060806710" />
+    <state width="1419" height="192" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1581134851778" />
+    <state width="1419" height="192" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1581134109944" />
     <state width="1419" height="192" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1581132668209" />
     <state width="1419" height="256" key="GridCell.Tab.1.bottom" timestamp="1581131576875">
       <screen x="0" y="23" width="1440" height="826" />
